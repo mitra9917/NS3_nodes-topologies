@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow only these
+!scratch/
+!scratch/*.cc
+!output/
+!output/*.xml
+!README.md
+!.gitignore
+
